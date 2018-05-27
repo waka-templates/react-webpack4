@@ -1,0 +1,14 @@
+
+/**
+    Use Sass-like markup in your CSS: https://www.npmjs.com/package/precss
+ */
+
+$color: red;
+
+#wrap_container{
+    display: flex;
+}
+
+h3{
+    color: $color;
+}
